@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockTicker", "StockTicker\StockTicker.csproj", "{7A712AFA-1C57-4EE0-8F8E-CA0AD61538AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A712AFA-1C57-4EE0-8F8E-CA0AD61538AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A712AFA-1C57-4EE0-8F8E-CA0AD61538AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A712AFA-1C57-4EE0-8F8E-CA0AD61538AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A712AFA-1C57-4EE0-8F8E-CA0AD61538AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0128543F-5C09-48E6-A590-FA5D84E585EC}
+	EndGlobalSection
+EndGlobal
