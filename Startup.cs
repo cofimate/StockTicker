@@ -36,8 +36,8 @@ namespace StockTicker
                 app.UseDeveloperExceptionPage();
             }
 
-			int i =1;
-			int j=1;
+			int i =2;
+			int j=2;
             app.UseHttpsRedirection();
 
             app.UseRouting();
